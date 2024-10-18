@@ -1,6 +1,6 @@
 --[[
     Author: hui.chen
-    Date: 2024.10.17
+    Date: 2024.10.18
     Desc: 素数取模
 --]]
 
