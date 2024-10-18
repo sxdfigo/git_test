@@ -1,7 +1,7 @@
 --[[
     Author: hui.chen
     Date: 2024.10.18
-    Desc: 素数取模
+    Desc: 素数取模测试用例
 --]]
 
 local node_count = 12
